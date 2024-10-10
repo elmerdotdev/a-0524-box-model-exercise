@@ -1,4 +1,4 @@
-# A-0524 HTML Exercise: Box Model and Positioning
+# Web 1 - Box Model and Positioning Exercise
 
 ## Objective
 
